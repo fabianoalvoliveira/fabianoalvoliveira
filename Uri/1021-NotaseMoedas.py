@@ -1,7 +1,6 @@
-import sys
 valor = float(input())
 
-notas = [100, 50, 20, 10, 5, 2] #vetores para armazenar notas e moedas
+notas = [100, 50, 20, 10, 5, 2]
 moedas = [1, 0.50, 0.25, 0.10, 0.05 , 0.01]
 
 print('NOTAS:')
